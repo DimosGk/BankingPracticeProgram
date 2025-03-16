@@ -1,48 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
-  <diagram name="Σελίδα-1" id="XuSk0BA7dRO7uJz1TflD">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Σελίδα-1" id="tiyT4IaU_LB0WDNFEVlJ">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-2" value="Setting up variables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBxjin4nsIMsDrSmU1cZ-1" target="xBxjin4nsIMsDrSmU1cZ-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="170" as="sourcePoint" />
-            <mxPoint x="440" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-4" value="Printing game&#39;s instructions in the console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xBxjin4nsIMsDrSmU1cZ-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="240" as="sourcePoint" />
-            <mxPoint x="440" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-6" value="Creating player&#39;s movement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xBxjin4nsIMsDrSmU1cZ-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="360" as="sourcePoint" />
-            <mxPoint x="440" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-8" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xBxjin4nsIMsDrSmU1cZ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="480" as="sourcePoint" />
-            <mxPoint x="419.5" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
