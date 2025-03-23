@@ -34,7 +34,7 @@
         <mxCell id="zms5g--WtPOScK9b-NzK-7" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-8" value="Enable renderer and gravity&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;in mesh renderer&#39;s properties of dropper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-8" value="Enable renderer and gravity in properties of dropper&#39;s mesh renderer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="500" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zms5g--WtPOScK9b-NzK-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zms5g--WtPOScK9b-NzK-8" target="zms5g--WtPOScK9b-NzK-7" edge="1">
