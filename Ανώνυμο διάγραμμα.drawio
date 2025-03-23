@@ -4,40 +4,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zms5g--WtPOScK9b-NzK-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zms5g--WtPOScK9b-NzK-1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zms5g--WtPOScK9b-NzK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="410" as="sourcePoint" />
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="540" as="sourcePoint" />
             <mxPoint x="440" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-4" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-4" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="510" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299.5" y="640" as="sourcePoint" />
             <mxPoint x="299.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="640" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-7" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-7" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-8" value="Enable renderer and gravity&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;in mesh renderer&#39;s properties of dropper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-8" value="Enable renderer and gravity&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;in mesh renderer&#39;s properties of dropper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="500" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zms5g--WtPOScK9b-NzK-8" target="zms5g--WtPOScK9b-NzK-7">
+        <mxCell id="zms5g--WtPOScK9b-NzK-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zms5g--WtPOScK9b-NzK-8" target="zms5g--WtPOScK9b-NzK-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.5" y="790" as="sourcePoint" />
             <mxPoint x="380" y="870" as="targetPoint" />
@@ -46,25 +46,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-10" value="&lt;div&gt;&lt;div&gt;Is Time.time bigger&lt;/div&gt;&lt;div&gt;than timeToWait?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-10" value="&lt;div&gt;&lt;div&gt;Is Time.time bigger&lt;/div&gt;&lt;div&gt;than timeToWait?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="440" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-11" value="Setting up variables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-11" value="Setting up variables" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299.5" y="280" as="sourcePoint" />
             <mxPoint x="299.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299.5" y="400" as="sourcePoint" />
             <mxPoint x="299.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zms5g--WtPOScK9b-NzK-14" value="Disable renderer and gravity&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;in mesh renderer&#39;s properties of dropper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zms5g--WtPOScK9b-NzK-14" value="Disable renderer and gravity in properties of dropper&#39;s mesh renderer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
