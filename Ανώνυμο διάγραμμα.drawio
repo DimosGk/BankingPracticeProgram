@@ -1,64 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
-  <diagram name="Σελίδα-1" id="nhBUqjwyffHpw899cHTM">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Σελίδα-1" id="QBaPAJesBOUJ3Jq4jRsB">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qFgBtOC356zQljnrttj2-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.0344827586207" y="110" as="sourcePoint" />
-            <mxPoint x="320" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="130" />
-              <mxPoint x="320" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-2" value="&lt;font&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-3" value="Declare variables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="150" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.0344827586207" y="230" as="sourcePoint" />
-            <mxPoint x="320" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="250" />
-              <mxPoint x="320" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-5" value="&lt;font&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="510" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-6" value="Get the starting position of the sphere" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="270" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319.5344827586207" y="470" as="sourcePoint" />
-            <mxPoint x="319.5" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="319.5" y="490" />
-              <mxPoint x="319.5" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.0344827586207" y="350" as="sourcePoint" />
-            <mxPoint x="320" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="370" />
-              <mxPoint x="320" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qFgBtOC356zQljnrttj2-9" value="Create the sinusoidal movement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="200" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
